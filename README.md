@@ -69,9 +69,6 @@ travel_expense/
 
 1. Clone the repository:
 
-```bash
-git clone https://github.com/Jesna-ux/dbms-project.git
-```
 
 2. Move the project folder into:
 
