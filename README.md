@@ -106,7 +106,7 @@ $db = "travel_expense";
 http://localhost/travel_expense/
 ```
 
-## 📖 How to Use
+## 📖 How can we use
 
 ### Register
 
